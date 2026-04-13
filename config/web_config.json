@@ -1,0 +1,24 @@
+{
+  "target_min_tokens": 15000,
+  "auto_fill_start_gap": 1,
+  "check_interval_minutes": 1,
+  "manual_default_threads": 1,
+  "manual_register_retries": 3,
+  "web_token": "REDACTED_WEB_TOKEN",
+  "client_api_token": "REDACTED_CLIENT_API_TOKEN",
+  "client_notice": "",
+  "minimum_client_version": "",
+  "enabled_email_domains": [
+    "*.example.invalid"
+  ],
+  "mail_domain_options": [
+    "*.example.invalid"
+  ],
+  "default_proxy": "http://127.0.0.1:7890",
+  "use_registration_proxy": false,
+  "cpa_base_url": "http://localhost:8317",
+  "cpa_token": "REDACTED_CPA_TOKEN",
+  "mail_api_url": "https://mail.example.invalid",
+  "mail_api_key": "REDACTED_MAIL_API_KEY",
+  "port": 25666
+}

@@ -1,0 +1,15 @@
+{
+  "ak_file": "ak.txt",
+  "rk_file": "rk.txt",
+  "token_json_dir": "codex_tokens",
+  "server_config_url": "",
+  "server_api_token": "",
+  "domain_report_url": "",
+  "upload_api_url": "http://localhost:8317/v0/management/auth-files",
+  "upload_api_token": "REDACTED_UPLOAD_API_TOKEN",
+  "oauth_issuer": "https://auth.openai.com",
+  "oauth_client_id": "app_EMoamEEZ73f0CkXaXp7hrann",
+  "oauth_redirect_uri": "http://localhost:1455/auth/callback",
+  "enable_oauth": true,
+  "oauth_required": true
+}

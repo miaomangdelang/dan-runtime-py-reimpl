@@ -1,0 +1,20 @@
+# runtime secrets / outputs
+ak.txt
+rk.txt
+registered_accounts.txt
+codex_tokens/
+
+# logs / pids
+*.log
+*.pid
+
+# python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local env / editors
+.env
+.env.*
+.venv/
+.DS_Store
